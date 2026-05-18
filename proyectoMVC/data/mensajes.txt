@@ -1,0 +1,28 @@
+Nombre: LOPEZ
+Correo: l23200931@pachuca.tecnm.mx
+Telefono: 54465
+Mensaje: grgaweagrgargra
+Fecha: 18/05/2026
+Hora: 04:38:41
+---------------------------
+Nombre: LOPEZ
+Correo: l23200931@pachuca.tecnm.mx
+Telefono: 54465
+Mensaje: grgaweagrgargra
+Fecha: 18/05/2026
+Hora: 04:39:32
+---------------------------
+Nombre: LOPEZ
+Correo: l23200931@pachuca.tecnm.mx
+Telefono: 54465
+Mensaje: grgaweagrgargra
+Fecha: 18/05/2026
+Hora: 04:40:57
+---------------------------
+Nombre: Alejandro Diaz
+Correo: 05alex.ld@gmail.com
+Telefono: 95641615651
+Mensaje: hola mundo 
+Fecha: 18/05/2026
+Hora: 04:48:59
+---------------------------
